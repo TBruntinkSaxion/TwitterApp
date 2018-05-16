@@ -1,4 +1,4 @@
-package com.example.tim.twitterapp.models;
+package nl.saxion.tk.twitterapp.models;
 
 public class User {
 

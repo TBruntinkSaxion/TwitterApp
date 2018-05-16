@@ -1,4 +1,4 @@
-package com.example.tim.twitterapp;
+package nl.saxion.tk.twitterapp;
 
 import org.junit.Test;
 

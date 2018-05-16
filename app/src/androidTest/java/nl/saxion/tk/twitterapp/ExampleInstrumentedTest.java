@@ -1,4 +1,4 @@
-package com.example.tim.twitterapp;
+package nl.saxion.tk.twitterapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
