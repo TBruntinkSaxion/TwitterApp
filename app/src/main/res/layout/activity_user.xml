@@ -76,12 +76,12 @@
         android:id="@+id/textViewFollowersCount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="56dp"
-        android:layout_marginStart="56dp"
-        android:layout_marginTop="332dp"
+        android:layout_marginLeft="68dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="40dp"
         android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/textViewFriendsCount"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/textViewLocation" />
 
 
 </android.support.constraint.ConstraintLayout>
